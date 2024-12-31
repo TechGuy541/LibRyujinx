@@ -1,3 +1,6 @@
-# Ryujinx on iOS
+# LibRyujinx
 
-ryujinx the NX emu on ios code here last update was long ago cause they stopped making cause they didnt wanna publish cause of JIT.
+Ryujinx made a version for both iOS and Android.
+Then they decided it wasnt worth it and scrapped both.
+
+For a revical and new version of the project visit: https://melonx.org
